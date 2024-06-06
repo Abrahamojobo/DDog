@@ -1,0 +1,34 @@
+h2{
+  color: brown;
+  background-color: rgba(251, 251, 132, 0.5);
+}
+.head{
+font-weight: bold;
+text-align: center;
+}
+.un{
+  font-weight: bold;
+  text-align: center;
+  }
+  table{
+      border-collapse: collapse;
+  }
+  .num{
+      color: rgb(179, 4, 4);
+  }
+  span{
+      color: rgb(38, 202, 38);
+  }
+  .san{
+      color:red ;
+  }
+  tr:nth-child(3),
+  tr:nth-child(7){
+      background-color: rgba(128, 128, 128, 0.313);
+  }
+  .but{
+      padding: 1px;
+  }
+  img{
+      float: right;
+  }
